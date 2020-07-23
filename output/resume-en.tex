@@ -1,0 +1,374 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={Joost Soeterbroek},reference={joost-soeterbroek}]
+
+\thinrule
+
+\startblockquote
+I have an extensive background in IT as a UNIX/Linux sysadmin, a web
+application developer and DevOps roles. Strong in configuration
+management automation. I am a Red Hat Certified Engineer.
+\stopblockquote
+
+\thinrule
+
+\subsection[title={Employment History},reference={employment-history}]
+
+{\bf 2018 - 2020 \letterbar{} Hartekamp Groep}\crlf
+{\bf {\em Caregiver for people with mental handicaps}}
+
+Working in a care home for people with mental handicaps where I am
+providing medical and non-medical home care service to elderly/disabled
+clients. Focused on personal care, companionship, homemaking, health and
+personal wellbeing of people under our care.
+
+{\bf 2016 - 2018 \letterbar{} Koninklijke Nederlandse Redding
+Maatschappij}\crlf
+{\bf {\em Database-, Linux System- and Application Administrator}}
+
+The KNRM is a search-and-rescue organisation at sea. I was a part of the
+IT team that supported KNRM volunteers and office personnel. Within this
+team I was primarily responsible for multiple virtual hosts in Microsoft
+Azure Cloud; administration, configuration, monitoring and
+troubleshooting of CentOS Linux OS and LAMP applications.
+
+{\bf 2012 - 2016 \letterbar{} Proxy BV, UNIX Consultancy}\crlf
+{\bf {\em UNIX/Linux systems consultant}}
+
+UNIX/Linux systems consultant for two of Proxy's clients;
+Rijkswaterstaat (Dutch governmental organisation for road- and water
+infrastructure) and the Dutch Police. For the Dutch Police I worked in a
+security-sensitive environment of >600 hosts, with a strong focus on
+system configuration management automation with Puppet.
+
+{\bf 2011 -- 2012 \letterbar{} ONVZ Health Care Insurance}\crlf
+{\bf {\em Applications Administrator}}
+
+\startitemize[packed]
+\item
+  Java Middleware Applications (Glassfish, Tomcat, ServiceMix, ActiveMQ,
+  Liferay) Development and Production (OTAP) environment for SOA
+  architecture
+\item
+  Systems Configuration Management automation with Puppet
+\item
+  Alfresco Document Management
+\stopitemize
+
+{\bf 2008 -- 2011 \letterbar{} ONVZ Health Care Insurance}\crlf
+{\bf {\em Red Hat Linux Systems Administrator}}
+
+\startitemize[packed]
+\item
+  Systems Configuration Management automation with CfEngine
+\item
+  Systems Management and Provisioning with Red Hat Satellite Server
+\item
+  System Monitoring and troubleshooting
+\item
+  Hardware maintenance
+\item
+  Development of remote installation and management tools
+\item
+  Writing cookbooks on hardware/software implementations
+\item
+  Implementation and configuration of servers and associated software
+\stopitemize
+
+{\bf 2007 -- 2008 \letterbar{} Schuberg Philis}\crlf
+{\bf {\em Mission Critical Engineer}} Schuberg Philis is a leading
+provider of mission critical outsourcing services. Focused exclusively
+on the applications that businesses rely on 24 h/day, guaranteeing
+100\letterpercent{} uptime. Responsibilities and achievements include
+building and managing dedicated mission critical application
+infrastructures, including datacenter hardware for its customers.
+
+{\bf 2005 - 2007 \letterbar{} Shell Exploration & Production}\crlf
+{\bf {\em Linux Project Engineer}}
+
+Shell Exploration & Production is engaged in the upstream activities of
+acquiring, exploring, developing and producing oil and gas, via Ordina
+Consulting. Responsibilities and achievements:
+
+\startitemize[packed]
+\item
+  Linux custom engineering based on RHEL
+\item
+  Writing installation and support manuals, processes and procedures
+\item
+  Development of remote installation and management tools
+\item
+  Writing cookbooks on hardware/software implementations
+\item
+  Implementation and configuration of servers and associated software
+\item
+  Implementation of server client software
+\item
+  Implementation of Red Hat Network Satellite Server
+\item
+  Project technical co-ordination
+\stopitemize
+
+{\bf 2004 - 2005 \letterbar{} Sun Microsystems}\crlf
+{\bf {\em Desktop Solutions Architect (Central- and Northern Europe
+Region)}}
+
+Sun Microsystems Professional Services helps customers with every phase
+of developing and deploying innovative services. Responsibilities and
+achievements:
+
+\startitemize[packed]
+\item
+  Mapping customer business requirements to technical desktop solutions
+  and provide technical leadership to the implementation of these
+  solutions in CNE region
+\item
+  Responsible for the overall design and technical oversight of complex
+  business initiatives in customer consulting engagements
+\stopitemize
+
+{\bf 2001-2004 \letterbar{} Sun Microsystems}\crlf
+{\bf {\em Technical Consultant Professional Services}}
+
+Sun Microsystems Professional Services helps customers with every phase
+of developing and deploying innovative services. Responsibilities and
+achievements:
+
+\startitemize[packed]
+\item
+  Primary focus on \quote{Edge} and Grid computing, UNIX systems
+  management and provisioning
+\item
+  Implementation services for Sun ONE products
+\item
+  Server migration and consolidation
+\item
+  Pre-sales activities
+\item
+  Technical documentation
+\item
+  Custom engineering, troubleshooting and disaster recovery for Cobalt
+  server appliances
+\stopitemize
+
+Note: Joost Soeterbroek joined Sun Microsystems with the acquisition of
+Cobalt Networks by Sun.
+
+{\bf 2000-2001 \letterbar{} Snow UNIX Consultancy}\crlf
+{\bf {\em UNIX/Linux Consultant}}
+
+Snow is a consultancy firm specialized in UNIX and UNIX-applications.
+Responsibilities and achievements:
+
+PHP programmer at Planet Internet in Amersfoort * Maintenance and
+building of internal CRM web application on LAMP (Linux, Apache, MySQL
+and PHP) platform * XML development and documentation
+
+{\bf 1998-2000 \letterbar{} VNU Publishing Corp.} {\bf {\em Webmaster}}
+
+VNU Publishing Corp.~Internet department (VIPS) was responsible for the
+technical infrastructure of all of its publications on the Internet.
+Responsibilities and achievements:
+
+\startitemize[packed]
+\item
+  Technical advice, infrastructure and hands-on support to the
+  \quote{site owners} of a number of VNU online publications within the
+  framework of the Netscape Publishing System and the Open Market IPS
+  Content Management System
+\item
+  Technical coordination of partnership deals with 3rd party content
+  providers
+\item
+  Perl programming custom applications and scripts
+\item
+  Research and documentation
+\stopitemize
+
+{\bf 1996-1998 \letterbar{} Media@vantage}\crlf
+{\bf {\em HTML programmer}}
+
+Media@vantage is a medium-sized bureau, specializing in interactive
+communications and new media (out of business). Responsibilities and
+achievements:
+
+\startitemize[packed]
+\item
+  Building and maintenance of websites for customers
+\item
+  Research and training of new employees
+\stopitemize
+
+{\bf 1995-1996 \letterbar{} Planet Internet}\crlf
+{\bf {\em Help desk employee}}
+
+Planet Internet is one of the biggest Internet Providers in the
+Netherlands. Responsibilities and achievements:
+
+\startitemize[packed]
+\item
+  Supporting Planet Internet customers on help desk
+\item
+  Occasional supervision of help desk
+\item
+  Diverse administrative duties
+\stopitemize
+
+\subsection[title={Technical
+Experience},reference={technical-experience}]
+
+\startdescription{My Cool Side Project}
+  For items which don't have a clear time ordering, a definition list
+  can be used to have named items.
+
+  \startitemize[packed]
+  \item
+    These items can also contain lists, but you need to mind the
+    indentation levels in the markdown source.
+  \item
+    Second item.
+  \stopitemize
+\stopdescription
+
+\startdescription{Open Source}
+  List open source contributions here, perhaps placing emphasis on the
+  project names, for example the {\bf Linux Kernel}, where you
+  implemented multithreading over a long weekend, or {\bf node.js} (with
+  \useURL[url1][http://nodejs.org][][link]\from[url1]) which was
+  actually totally your idea\ldots{}
+\stopdescription
+
+\startdescription{Programming Languages}
+  {\bf first-lang:} Here, we have an itemization, where we only want to
+  add descriptions to the first few items, but still want to mention
+  some others together at the end. A format that works well here is a
+  description list where the first few items have their first word
+  emphasized, and the last item contains the final few emphasized terms.
+  Notice the reasonably nice page break in the pdf version, which
+  wouldn't happen if we generated the pdf via html.
+
+  {\bf second-lang:} Description of your experience with second-lang,
+  perhaps again including a {[}link{]}
+  \useURL[url2][https://github.com/githubuser/superlongprojectname][][ref]\from[url2],
+  this time placing the url reference elsewhere in the document to
+  reduce clutter (see source file).
+
+  {\bf obscure-but-impressive-lang:} We both know this one's pushing it.
+
+  Basic knowledge of {\bf C}, {\bf x86 assembly}, {\bf forth},
+  {\bf Common Lisp}
+\stopdescription
+
+\subsection[title={Extra Section, Call it Whatever You
+Want},reference={extra-section-call-it-whatever-you-want}]
+
+\startitemize
+\item
+  Human Languages:
+
+  \startitemize[packed]
+  \item
+    English (native speaker)
+  \item
+    ???
+  \item
+    This is what a nested list looks like.
+  \stopitemize
+\item
+  Random tidbit
+\item
+  Other sort of impressive-sounding thing you did
+\stopitemize
+
+\subsection[title={Education},reference={education}]
+
+\startdescription{2010-2014 (expected)}
+  {\bf PhD, Computer Science}; Awesome University (MyTown)
+
+  {\em Thesis title: Deep Learning Approaches to the Self-Awesomeness
+  Estimation Problem}
+\stopdescription
+
+\startdescription{2007-2010}
+  {\bf BSc, Computer Science and Electrical Engineering}; University of
+  HomeTown (HomeTown)
+
+  {\em Minor: Awesomeology}
+\stopdescription
+
+\thinrule
+
+\startblockquote
+\useURL[url3][mailto:joost.soeterbroek@gmail.com][][joost.soeterbroek@gmail.com]\from[url3]\crlf
+address - Mytown, Mycountry
+\stopblockquote
+
+\stoptext

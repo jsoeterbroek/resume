@@ -1,0 +1,59 @@
+mtx-context     | run 1: luatex --fmt="/home/joost/.texlive2019/texmf-var/luatex-cache/context/d10b607aa0e9d13dde6602f491b76cbc/formats/luatex/cont-en" --jobname="resume-nl" --lua="/home/joost/.texlive2019/texmf-var/luatex-cache/context/d10b607aa0e9d13dde6602f491b76cbc/formats/luatex/cont-en.lui" --c:currentrun=1 --c:fulljobname="./resume-nl.tex" --c:input="./resume-nl.tex" --c:kindofrun=1 --c:maxnofruns=9 --c:texmfbinpath="/usr/bin" "cont-yes.mkiv"
+
+This is LuaTeX, Version 1.10.0 (TeX Live 2019) 
+ system commands enabled.
+open source     > level 1, order 1, name '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+system          > 
+system          > ConTeXt  ver: 2019.03.21 21:39 MKIV beta  fmt: 2020.7.23  int: english/english
+system          > 
+system          > 'cont-new.mkiv' loaded
+open source     > level 2, order 2, name '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+system          > beware: some patches loaded from cont-new.mkiv
+close source    > level 2, order 2, name '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+system          > files > jobname 'resume-nl', input './resume-nl', result 'resume-nl'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > level 2, order 3, name '/home/joost/Development/resume/output/resume-nl.tex'
+colors          > defining > unknown library 'hex'
+open source     > level 3, order 4, name '/usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+close source    > level 3, order 4, name '/usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+structure       > sectioning > section @ level 3 : 0.0.1 -> Johnny Coder
+structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
+
+Overfull \hbox (2.78194pt too wide) in paragraph at lines 88--90
+ []<13: texgyreheros-italic @ 11.0pt> The-sis ti-tle: Deep Learn-ing Ap-proaches to the Self-Awesomeness Es-ti-ma-tion Prob-
+structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Experience
+structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Technical Experience
+backend         > xmp > using file '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1, subpage 1
+structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Extra Section, Call it Whatever You Want
+pages           > flushing realpage 2, userpage 2, subpage 2
+close source    > level 2, order 4, name '/home/joost/Development/resume/output/resume-nl.tex'
+close source    > level 1, order 4, name '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+
+mkiv lua stats  > used config file: selfautodir:/share/texlive/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: /home/joost/.texlive2019/texmf-var/luatex-cache/context/d10b607aa0e9d13dde6602f491b76cbc
+mkiv lua stats  > resource resolver: loadtime 0.077 seconds, 1 scans with scantime 0.074 seconds, 0 shared scans, 15 found files, scanned paths: /usr/share/texlive
+mkiv lua stats  > stored bytecode data: 443 modules (0.279 sec), 93 tables (0.014 sec), 536 chunks (0.293 sec)
+mkiv lua stats  > traced context: maxstack: 1369, freed: 0, unreachable: 1369
+mkiv lua stats  > cleaned up reserved nodes: 62 nodes, 9 lists of 440
+mkiv lua stats  > node memory usage: 1 glue, 3 kern, 2 penalty, 14 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 8 instances (re)created, 417 calls
+mkiv lua stats  > driver time: 0.070 seconds 
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.000 seconds loading
+mkiv lua stats  > callbacks: internal: 821, file: 640, direct: 2, late: 19, function 994, total: 2476 (2476 per page)
+mkiv lua stats  > randomizer: resumed with value 0.66790645476431
+mkiv lua stats  > result saved in file: resume-nl.pdf, compresslevel 3, objectcompresslevel 1
+mkiv lua stats  > loaded patterns: en::1, load time: 0.000
+mkiv lua stats  > interactive elements: 4 references, 10 destinations
+mkiv lua stats  > loaded fonts: 4 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
+mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 13 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.199 seconds 
+mkiv lua stats  > pdf annotations: 4 links (4 unique), 0 special
+mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
+mkiv lua stats  > used engine: luatex version 1.1 with functionality level 7127, banner: this is luatex, version 1.10.0 (tex live 2019)
+mkiv lua stats  > control sequences: 45568 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 89 MB (ctx: 88 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.685 seconds, 2 processed pages, 2 shipped pages, 2.920 pages/second
+system          | total runtime: 0.936 seconds
+
