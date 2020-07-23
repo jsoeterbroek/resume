@@ -47,6 +47,7 @@ UNIX/Linux systems consultant for two of Proxy’s clients; Rijkswaterstaat (Dut
 
 **2007 – 2008 | Schuberg Philis**  
 ***Mission Critical Engineer***
+
 Schuberg Philis is a leading provider of mission critical outsourcing services. Focused exclusively on the applications that businesses rely on 24 h/day, guaranteeing 100% uptime. Responsibilities and achievements include building and managing dedicated mission critical application infrastructures, including datacenter hardware for its customers.
 
 **2005 - 2007 | Shell Exploration & Production**  
