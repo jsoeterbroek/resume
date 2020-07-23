@@ -2,13 +2,15 @@
 Resume Joost Soeterbroek
 
 ## English
-* [markdown/resume-en.md](markdown format)
-* [output/resume-en.pdf](pdf format)
-* [output/resume-en.docx](docx format)
 
-## Dutch
-* [markdown/resume-nl.md](markdown format)
-* [output/resume-nl.pdf](pdf format)
-* [output/resume-nl.docx](docx format)
+* [markdown](markdown/resume-en.md)
+* [pdf](output/resume-en.pdf)
+* [docx](output/resume-en.docx)
+
+## Dutch/Nederlands
+
+* [markdown](markdown/resume-nl.md)
+* [pdf](output/resume-nl.pdf)
+* [docx](output/resume-nl.docx)
 
 -----
