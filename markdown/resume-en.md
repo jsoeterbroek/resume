@@ -95,7 +95,7 @@ PHP programmer at Planet Internet in Amersfoort
 * Maintenance and building of internal CRM web application on LAMP (Linux, Apache, MySQL and PHP) platform
 * XML development and documentation
 
-**1998-2000 | VNU Publishing Corp.**
+**1998-2000 | VNU Publishing Corp.**  
 ***Webmaster***
 
 VNU Publishing Corp. Internet department (VIPS) was responsible for the technical infrastructure of all of its publications on the Internet. Responsibilities and achievements:
