@@ -3,8 +3,8 @@ Joost Soeterbroek
 
 ----
 
-> I have an extensive background in IT as a UNIX/Linux sysadmin, a web application 
-> developer and DevOps roles. Strong in configuration management automation. I am 
+> I have an extensive background in IT as a UNIX/Linux sysadmin, web application 
+> development and DevOps roles. Strong in configuration management automation. I am 
 > a Red Hat Certified Engineer.
 
 ----
@@ -93,7 +93,7 @@ Employment History
     * Technical documentation
     * Custom engineering, troubleshooting and disaster recovery for Cobalt server appliances
 
-    Note: Joost Soeterbroek joined Sun Microsystems with the acquisition of Cobalt Networks by Sun.
+    *Note: Joost Soeterbroek joined Sun Microsystems with the acquisition of Cobalt Networks by Sun Microsystems.*
 
 2000-2001 
 :   **Snow UNIX Consultancy**  
@@ -161,36 +161,31 @@ Open Source
 
     See also my Github repository at [github.com/jsoeterbroek](https://github.com/jsoeterbroek) for coding examples and project contributions.
 
-Config Management Automation
-:   **Ansible:** Here, we have an itemization, where we only want
+DevOps
+:   **Configuration Management & Orchestration Automation** Considerable amount of experience with configuration management automation tooling, workflows and orchestration in production environments with: 
 
-:   **Puppet:** Here, we have an itemization, where we only want
+    * Ansible
+    * Puppet
+    * CfEngine
 
-:   **CfEngine:** Here, we have an itemization, where we only want
-
-CI/CD
 :   **CI/CD workflows:** Experience with Continuous Integration workflows with Github, GitLab, Jenkins in a DevOps capacity.
 
 Programming Languages
-:   **Python:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Python:** Python is my go-to language for scripting and programming in the fields of automation, web development and glueing of systems and services.
+    I use Python Django for web development projects.
 
-:   **Shell-scripting (Bash):** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Shell-scripting:** Fair amount of experience writing scripts using Bash. Comfortable on UNIX/Linux command-line.
 
-:   **Web:** We both know this one's pushing
-    it.
+:   **Web:** Fair amount of PHP experience for web development.
+    I use Python Django for web development projects.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of general software and programming concepts and software development methodologies and tooling. 
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Sysadmin
+:   **Red Hat:** Extensive knowledge of Red Hat Enterprise Linux operating system and solutions. I am a Red Hat Certified Professional (RHCE) – Certificate number: **110-264-371**.
+
+    [Verify: https://www.redhat.com/rhtapps/certification/verify/?certId=110-264-371](https://www.redhat.com/rhtapps/certification/verify/?certId=110-264-371) 
+
 
 Non-technical Skills
 --------------------
@@ -198,9 +193,16 @@ Non-technical Skills
 * Human Languages:
 
     * Fluent in English and Dutch. 
-    * Fair knowledge of French, written Arabic and German languages. 
-    * Willing to learn new languages.
+    * Fair knowledge of French, German and written Arabic. 
+    * Willing to learn new languages quickly.
 
+* Medical and personal care for people with mental disabilities:
+
+    * Medication prescription and handling
+    * Diabetes Mellitus and Insuline
+    * Personal care and basic hygiene
+    * Personal wellbeing and creative activities
+    * Practical use of technology in personal care
 
 Education
 ---------

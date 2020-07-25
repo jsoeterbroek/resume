@@ -4,7 +4,7 @@ STYLES_DIR=styles
 STYLE=chmduquesne
 LOG_DIR=log
 
-all: html pdf docx
+all: html pdf docx odt
 
 pdf: init
 	for f in $(IN_DIR)/*.md; do \
@@ -33,6 +33,13 @@ docx: init
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.docx; \
 		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.docx; \
+	done
+
+odt: init
+	for f in $(IN_DIR)/*.md; do \
+		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
+		echo $$FILE_NAME.odt; \
+		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.odt; \
 	done
 
 rtf: init
