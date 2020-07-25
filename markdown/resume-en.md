@@ -16,19 +16,19 @@ Employment History
 :   **Hartekamp Groep**  
     ***Caregiver for people with mental handicaps***
 
-    Working in a care home for people with mental handicaps providing medical and non-medical home care service to elderly/disabled clients. Focused on personal care, companionship, homemaking, health and personal wellbeing of people with disabilities under our care.
+    Working in a care home for people with mental handicaps providing medical and non-medical home care service to elderly/disabled clients. Focused on personal care, companionship, homemaking, health and personal well-being of people with disabilities under our care.
 
 2016 - 2018 
 :   **Koninklijke Nederlandse Redding Maatschappij**  
     ***Database-, Linux System- and Application Administrator***
 
-    The KNRM is a search-and-rescue organisation at sea. I was a part of the IT team that supported KNRM volunteers out at sea and office personnel. Within this team I was primarily responsible for multiple virtual hosts in Microsoft Azure Cloud; administration, configuration, monitoring and troubleshooting of CentOS Linux OS and LAMP applications.
+    The KNRM is a search-and-rescue organization at sea. I was a part of the IT team that supported KNRM volunteers out at sea and office personnel. Within this team I was primarily responsible for multiple virtual hosts in Microsoft Azure Cloud; administration, configuration, monitoring and troubleshooting of CentOS Linux OS and LAMP applications.
 
 2012 - 2016 
 :   **Proxy BV, UNIX Consultancy**  
     ***UNIX/Linux systems consultant***
 
-    UNIX/Linux systems consultant for two of Proxy’s clients; Rijkswaterstaat (Dutch governmental organisation for road- and water infrastructure) and the Dutch Police. For the Dutch Police I worked in a security-sensitive environment of >600 hosts, with a strong focus on system configuration management automation with Puppet.
+    UNIX/Linux systems consultant for two of Proxy’s clients; Rijkswaterstaat (Dutch governmental organization for road- and water infrastructure) and the Dutch Police. For the Dutch Police I worked in a security-sensitive environment of >600 hosts, with a strong focus on system configuration management automation with Puppet.
 
 2011 – 2012 
 :   **ONVZ Health Care Insurance**  
@@ -54,7 +54,7 @@ Employment History
 :   **Schuberg Philis**  
     ***Mission Critical Engineer***
 
-    Schuberg Philis is a leading provider of mission critical outsourcing services. Focused exclusively on the applications that businesses rely on 24 h/day, guaranteeing 100% uptime. Responsibilities and achievements include building and managing dedicated mission critical application infrastructures, including datacenter hardware for its customers.
+    Schuberg Philis is a leading provider of mission critical outsourcing services. Focused exclusively on the applications that businesses rely on 24 h/day, guaranteeing 100% up-time. Responsibilities and achievements include building and managing dedicated mission critical application infrastructures, including datacenter hardware for its customers.
 
 2005 - 2007 
 :   **Shell Exploration & Production**  
@@ -200,9 +200,9 @@ Non-technical Skills
 * Personal and medical care for people with mental disabilities:
 
     * Medication prescription and handling
-    * Diabetes Mellitus and Insuline care
+    * Diabetes Mellitus and Insulin care
     * Personal care and basic hygiene
-    * Personal wellbeing and creative activities
+    * Personal well-being and creative activities
     * Practical use of technology in personal care
 
 Education
