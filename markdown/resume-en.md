@@ -102,6 +102,7 @@ Employment History
     Snow is a consultancy firm specialized in UNIX and UNIX-applications. Responsibilities and achievements:
 
     PHP programmer at Planet Internet in Amersfoort:
+
     * Maintenance and building of internal CRM web application on LAMP (Linux, Apache, MySQL and PHP) platform
     * XML development and documentation
 
