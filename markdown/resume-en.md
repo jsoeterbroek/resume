@@ -4,8 +4,8 @@ Joost Soeterbroek
 ----
 
 > I have an extensive background in IT as a UNIX/Linux sysadmin, web application 
-> development and DevOps roles. Strong in configuration management automation. I am 
-> a Red Hat Certified Engineer.
+> development and DevOps roles. Strong in configuration management automation & orchestration. 
+> Red Hat Enterprise Linux Certified Engineer.
 
 ----
 
@@ -16,13 +16,13 @@ Employment History
 :   **Hartekamp Groep**  
     ***Caregiver for people with mental handicaps***
 
-    Working in a care home for people with mental handicaps providing medical and non-medical home care service to elderly/disabled clients. Focused on personal care, companionship, homemaking, health and personal wellbeing of people under our care.
+    Working in a care home for people with mental handicaps providing medical and non-medical home care service to elderly/disabled clients. Focused on personal care, companionship, homemaking, health and personal wellbeing of people with disabilities under our care.
 
 2016 - 2018 
 :   **Koninklijke Nederlandse Redding Maatschappij**  
     ***Database-, Linux System- and Application Administrator***
 
-    The KNRM is a search-and-rescue organisation at sea. I was a part of the IT team that supported KNRM volunteers and office personnel. Within this team I was primarily responsible for multiple virtual hosts in Microsoft Azure Cloud; administration, configuration, monitoring and troubleshooting of CentOS Linux OS and LAMP applications.
+    The KNRM is a search-and-rescue organisation at sea. I was a part of the IT team that supported KNRM volunteers out at sea and office personnel. Within this team I was primarily responsible for multiple virtual hosts in Microsoft Azure Cloud; administration, configuration, monitoring and troubleshooting of CentOS Linux OS and LAMP applications.
 
 2012 - 2016 
 :   **Proxy BV, UNIX Consultancy**  
@@ -172,12 +172,12 @@ DevOps
 
 Programming Languages
 :   **Python:** Python is my go-to language for scripting and programming in the fields of automation, web development and glueing of systems and services.
-    I use Python Django for web development projects.
+    I use Python Django for web development projects and dashboards.
 
 :   **Shell-scripting:** Fair amount of experience writing scripts using Bash. Comfortable on UNIX/Linux command-line.
 
 :   **Web:** Fair amount of PHP experience for web development.
-    I use Python Django for web development projects.
+    I use Python Django and Jekyll for web development projects.
 
 :   Basic knowledge of general software and programming concepts and software development methodologies and tooling. 
 
@@ -186,6 +186,7 @@ Sysadmin
 
     [Verify: https://www.redhat.com/rhtapps/certification/verify/?certId=110-264-371](https://www.redhat.com/rhtapps/certification/verify/?certId=110-264-371) 
 
+:    **Monitoring:** Extensive knowledge of systems monitoring with Nagios.
 
 Non-technical Skills
 --------------------
@@ -194,12 +195,12 @@ Non-technical Skills
 
     * Fluent in English and Dutch. 
     * Fair knowledge of French, German and written Arabic. 
-    * Willing to learn new languages quickly.
+    * Willing and able to learn new languages quickly.
 
-* Medical and personal care for people with mental disabilities:
+* Personal and medical care for people with mental disabilities:
 
     * Medication prescription and handling
-    * Diabetes Mellitus and Insuline
+    * Diabetes Mellitus and Insuline care
     * Personal care and basic hygiene
     * Personal wellbeing and creative activities
     * Practical use of technology in personal care
@@ -223,4 +224,6 @@ Education
 ----
 
 > <joost.soeterbroek@gmail.com>\
-> address - Mytown, Mycountry
+> +31 (0)6 34833845 \
+> linkedin.com/in/jsoeterbroek \
+> github.com/jsoeterbroek \
