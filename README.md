@@ -16,7 +16,7 @@
 * [MS Word docx](output/resume-nl.docx)
 * [HTML](output/resume-nl.html)
 
-## 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=jsoeterbroek&show_icons=true)
+## Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jsoeterbroek&show_icons=true)
 
 -----
