@@ -17,6 +17,6 @@
 * [HTML](output/resume-nl.html)
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=jsoeterbroek&show_icons=true&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=jsoeterbroek&show_icons=true&hide_border=false)
 
 -----
