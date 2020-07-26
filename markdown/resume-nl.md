@@ -1,100 +1,206 @@
-Johnny Coder
-============
+Joost Soeterbroek
+=================
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Uitgebreide achtergrond in ICT als een UNIX/Linux systeembeheerder, web applicatie
+> ontwikkeling en in verschillende DevOps rollen. Sterk in automatiseren van configuratie
+> management & orchestratie. Red Hat Enterprise Linux Certified Engineer.
 
 ----
 
-Education
----------
+Werkervaring
+------------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018 - 2020
+:   **Hartekamp Groep**  
+    ***(Leerling-)Begeleider Wonen Gehandicaptenzorg***
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    Ik werk in de gehandicaptenzorg met mensen met geestelijke beperkingen en biedt medische en niet-medische zorg aan (oudere) mensen met een beperking in een werk-leer traject. Focus op persoonlijke zorg, gezelschap, huishoudelijke taken en persoonlijk welbevinden van de clienten onder onze zorg. Grote interesse in zorgtechnologie.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016 - 2018 
+:   **Koninklijke Nederlandse Redding Maatschappij**  
+    ***Database-, Linux System- and Applicatiebeheerder***
 
-    *Minor: Awesomeology*
+    De KNRM is een *search-and-rescue* organisatie op zee. Ik was onderdeel van een klein IT team dat support biedde aan KNRM vrijwilligers op zee en kantoorpersoneel. Binnen dit team was ik primair verantwoordelijk voor Microsoft Azure Cloud platform; systeembeheer, configuratie, monitoring en trouble-shooting van een antal CentOS Linux systemen en custom LAMP applicaties en technisch beheer van de website knrm.nl.
 
-Experience
-----------
+2012 - 2016 
+:   **Proxy BV, UNIX Consultancy**  
+    ***UNIX/Linux systems consultant***
+  
+    UNIX/Linux systeem consultant voor twee van Proxy's clienten; Rijkswaterstaat en de Nationale Politie:
 
-**Your Most Recent Work Experience:**
+    * Voor Rijkswaterstaat was ik werkzaam in een afdeling verantwoordelijk voor metingen van waterstanden op zee en rivieren, met een sterke foxus op Nagios monitoring.
+    * Voor de Nationale Politie was ik werkzaam in een beveiligde omgeving met >600 systemen, met een sterke focus op system configuration management automatisering met Puppet en GitLab.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+2011 – 2012 
+:   **ONVZ Zorgverzekeraar**  
+    ***Applicatiebeheerder***
 
-* First item
+    * Java Middleware Applicaties  (Glassfish, Tomcat, ServiceMix, ActiveMQ, Liferay), ontwikkel- and productie omgevingen
+    * Systems Configuration Management automatisering met Puppet
+    * Alfresco Document Management
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+2008 – 2011 
+:   **ONVZ Zorgverzekeraar**  
+    ***Red Hat Linux Systembeheerder***
 
-**That Other Job You Had**
+    * Systems Configuration Management automatisering met CfEngine
+    * Systems Management and Provisioning met Red Hat Satellite Server
+    * System Monitoring en trouble-shooting
+    * Hardware onderhoud in eigen datacenter
+    * Change management in overleg met andere afdelingen
 
-Also with a short description.
+2007 – 2008 
+:   **Schuberg Philis**  
+    ***Mission Critical Engineer***
 
-Technical Experience
---------------------
+    Verantwoordelijkheden en activiteiten omvatten het bouwen en beheren van speciale missiekritieke applicatie-infrastructuren, inclusief datacenterhardware voor haar klanten.
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+2005 - 2007 
+:   **Shell**  
+    ***Linux Project Engineer***
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    Linux Project Engineer bij Shell Exploration & Production. Verantwoordelijkheden en activiteiten:
+
+    * Linux custom engineering gebaseerd op RHEL, inclusief inrichten van een rudimentaire build omgeving
+    * Ontwikkeling van remote installatie en management tools
+    * Implementatie and configuratie van servers en software
+    * Implementatie van Red Hat Network Satellite Server
+    * Project technische co-ordinatie
+
+2004 - 2005 
+:   **Sun Microsystems**  
+    ***Desktop Solutions Architect (CNE regio)***
+
+    Verantwoordelijkheden en activiteiten:
+
+    * De zakelijke behoeften van klanten in kaart brengen voor technische desktopoplossingen en technisch leiderschap bieden bij de implementatie van deze oplossingen in de regio Centraal- en Noord Europa
+    * Verantwoordelijk voor het algehele ontwerp en technisch toezicht op complexe bedrijfsinitiatieven bij klantadviesopdrachten
+
+2001-2004 
+:   **Sun Microsystems**  
+    ***Technical Consultant Professional Services***
+
+    Verantwoordelijkheden en activiteiten:
+
+    * Primaire focus op 'Edge' and Grid computing, UNIX systeembeheer en provisioning
+    * Implementatie services voor Sun ONE producten
+    * Server migratie en consolidatie
+    * Pre-sales activiteiten
+    * Technische documentatie
+    * Custom engineering, troubleshooting en disaster recovery voor Cobalt server appliances
+
+    *NB: Joost Soeterbroek is bij Sun Microsystems in dienst gekomen met de acquisitie van Cobalt Networks door Sun Microsystems.*
+
+2000-2001 
+:   **Snow UNIX Consultancy**  
+    ***UNIX/Linux Consultant***
+
+    Verantwoordelijkheden en activiteiten:
+
+    * Beheer en verdere uitbouw van een interne CRM web applicatie op LAMP (Linux, Apache, MySQL en PHP) platform bij Planet Internet in Amersfoort
+
+1998-2000 
+:   **VNU**  
+    ***Webmaster***
+
+    VNU Business Publication's internet afdeling (VIPS) was verantwoordelijk voor de technische infrastructuur van al haar publicaties op het Internet. 
+
+1996-1998 
+:   **Media@vantage**  
+    ***HTML programmeur***
+
+
+1995-1996 
+:   **Planet Internet**  
+    ***Helpdesk***
+
+
+Technische ervaring 
+-------------------
+
+CoronaMelder Covid-19 notificatie app
+
+:   Geparticipeerd in de het project van het Ministerie van VWS om de CoronaMelder Covid-19 notificatie app en website te realiseren:
+
+    * Covid-19 notificatie iOS app
+      * CI/CD public build pipeline geconfigureerd met Github Actions
+      * Python script wat een vergelijking kan maken tussen gecompileerde ipa files uit de verschillende build omgevingen
+
+      Zie: [github.com/minvws/nl-covid19-notification-app-ios/graphs/contributors](https://github.com/minvws/nl-covid19-notification-app-ios/graphs/contributors)
+
+    * Covid-19 notificatie app website
+      * Taal switch voor meerdere talen
+      * overige contributies
+
+      Zie: [github.com/minvws/nl-covid19-notification-app-website/graphs/contributors](https://github.com/minvws/nl-covid19-notification-app-website/graphs/contributors)
+
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   Ik heb geparticipeerd in het Fedora Linux project als een *package maintainer* ([Fedora Wikipage](https://fedoraproject.org/wiki/JoostSoeterbroek)) voor een aantal RPM packages. Google search: *'Joost Soeterbroek Fedora'*
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    Zie ook mijn Github repository op [github.com/jsoeterbroek](https://github.com/jsoeterbroek) voor code voorbeelden and project contributies.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+DevOps
+:   **Configuration Management & Orchestration Automation** Aanzienlijke ervaring met configuration management automation tooling, workflows en orchestration in productie omgevingen met: 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+    * Ansible
+    * Puppet
+    * CfEngine
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **CI/CD workflows:** Ervaring Continuous Integration workflows en geautomatiseerd testen met Github, GitLab, Jenkins in een DevOps rol.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Programmeertalen
+:   **Python:** Python is mijn *'go-to language'* voor scripting en programmeren in automation, web development en het aan elkaar lijmen systemen en services.
+    Ik gebruik bij voorkeur Python Django voor web development projecten en dashboards.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+:   **Shell-scripting:** Aardig wat ervaring met het schijven van scripts met Bash. Ik voel me comfortabel op de UNIX/Linux command-line.
 
-* Human Languages:
+:   **Web:** PHP ervaring voor web development.
+    I gebruik voornamelijk en bij voorkeur Python Django en Jekyll voor web development projecten.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+:   Kennis van algemene software- en programmeer concepten en software ontwikkelmethodologien en tooling.
 
-* Random tidbit
+Systeembeheer
+:   **Red Hat:** Uitgebreide kennis van Red Hat Enterprise Linux operating system en varianten. Ik ben een Red Hat Certified Professional (RHCE) – Certificate number: **110-264-371**.
 
-* Other sort of impressive-sounding thing you did
+    [Verify: https://www.redhat.com/rhtapps/certification/verify/?certId=110-264-371](https://www.redhat.com/rhtapps/certification/verify/?certId=110-264-371) 
+
+:    **Monitoring:** Uitgebreide kennis en ervaring met systems monitoring met Nagios.
+
+Niet-Technische ervaring 
+------------------------
+
+* Talen:
+
+    * Vloeiend in Engels en Nederlands. 
+    * Aanvaardbare kennis van Frans, Duits en geschreven Arabisch. 
+
+* Zorgsector:
+
+    * Persoonlijke zorg voor mensen met een verstandelijke handicap
+    * Medicatie verstrekken, Diabetes en insuline
+
+Opleiding
+---------
+
+1991 - 1993
+:   **Talen & Culturen van het Midden-Oosten**; Universiteit van Groningen (RuG)
+
+    Universiteit van Groningen (RuG) 'Talen en & Culturen van het Midden-Oosten' programma met een sterke nadruk op de Arabische taal (lezen en schrijven), cultuur, literatuur en geschiedenis. 
+
+    * Verblijf van 6 maanden in Cairo, Egypte als onderdeel van een standaard programma van de Universiteit.
+
+1993 - 1994
+:   **Talen & Culturen van het Midden-Oosten**; Universiteit van Amsterdam (UvA)
+
+    Universiteit van Amsterdam (UvA) 'Talen & Culturen van het Midden-Oosten' programma met een sterke nadruk op de Arabische taal (lezen en schrijven), cultuur, literatuur en geschiedenis. 
+
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <joost.soeterbroek@gmail.com>\
+> 06-34833845 \
+> linkedin.com/in/jsoeterbroek \
+> github.com/jsoeterbroek \

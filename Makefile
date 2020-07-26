@@ -3,8 +3,19 @@ IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=chmduquesne
 LOG_DIR=log
+CLEAN_FILES=\
+output/resume-en.log \
+output/resume-en.tex \
+output/resume-en.tuc \
+output/resume-nl.log \
+output/resume-nl.tex \
+output/resume-nl.tuc
+
 
 all: html pdf docx odt
+	for f in `ls $(CLEAN_FILES)`; do \
+		rm -f $$f > /dev/null; \
+	done
 
 pdf: init
 	for f in $(IN_DIR)/*.md; do \
