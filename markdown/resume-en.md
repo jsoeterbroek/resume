@@ -28,7 +28,10 @@ Employment History
 :   **Proxy BV, UNIX Consultancy**  
     ***UNIX/Linux systems consultant***
 
-    UNIX/Linux systems consultant for two of Proxy’s clients; Rijkswaterstaat (Dutch governmental organization for road- and water infrastructure) and the Dutch Police. For the Dutch Police I worked in a security-sensitive environment of >600 hosts, with a strong focus on system configuration management automation with Puppet.
+    UNIX/Linux systems consultant for two of Proxy’s clients; Rijkswaterstaat (Dutch governmental organization for road- and water infrastructure) and the Dutch Police: 
+
+    * For Rijkswaterstaat I worked in a team responsible for measurements of (sea) water levels, with a strong focus on Nagios monitoring. 
+    * For the Dutch Police I worked in a security-sensitive environment of >600 hosts, with a strong focus on system configuration management automation with Puppet.
 
 2011 – 2012 
 :   **ONVZ Health Care Insurance**  
@@ -45,29 +48,25 @@ Employment History
     * Systems Configuration Management automation with CfEngine
     * Systems Management and Provisioning with Red Hat Satellite Server
     * System Monitoring and troubleshooting
-    * Hardware maintenance
-    * Development of remote installation and management tools
-    * Writing cookbooks on hardware/software implementations
-    * Implementation and configuration of servers and associated software
+    * Hardware maintenance in-house data center
+    * Change management in close coordination with other departments 
 
 2007 – 2008 
 :   **Schuberg Philis**  
     ***Mission Critical Engineer***
 
-    Schuberg Philis is a leading provider of mission critical outsourcing services. Focused exclusively on the applications that businesses rely on 24 h/day, guaranteeing 100% up-time. Responsibilities and achievements include building and managing dedicated mission critical application infrastructures, including datacenter hardware for its customers.
+    Responsibilities and achievements include building and managing dedicated mission critical application infrastructures, including datacenter hardware for its customers.
 
 2005 - 2007 
-:   **Shell Exploration & Production**  
+:   **Shell**  
     ***Linux Project Engineer***
 
-    Shell Exploration & Production is engaged in the upstream activities of acquiring, exploring, developing and producing oil and gas, via Ordina Consulting. Responsibilities and achievements:
+    Linux Project Engineer at Shell Exploration & Production. Responsibilities and achievements:
 
     * Linux custom engineering based on RHEL
     * Writing installation and support manuals, processes and procedures
     * Development of remote installation and management tools
-    * Writing cookbooks on hardware/software implementations
     * Implementation and configuration of servers and associated software
-    * Implementation of server client software
     * Implementation of Red Hat Network Satellite Server
     * Project technical co-ordination
 
@@ -75,7 +74,7 @@ Employment History
 :   **Sun Microsystems**  
     ***Desktop Solutions Architect (Central- and Northern Europe Region)***
 
-    Sun Microsystems Professional Services helps customers with every phase of developing and deploying innovative services. Responsibilities and achievements:
+    Responsibilities and achievements:
 
     * Mapping customer business requirements to technical desktop solutions and provide technical leadership to the implementation of these solutions in CNE region
     * Responsible for the overall design and technical oversight of complex business initiatives in customer consulting engagements
@@ -99,12 +98,9 @@ Employment History
 :   **Snow UNIX Consultancy**  
     ***UNIX/Linux Consultant***
 
-    Snow is a consultancy firm specialized in UNIX and UNIX-applications. Responsibilities and achievements:
-
-    PHP programmer at Planet Internet in Amersfoort:
+    Responsibilities and achievements:
 
     * Maintenance and building of internal CRM web application on LAMP (Linux, Apache, MySQL and PHP) platform
-    * XML development and documentation
 
 1998-2000 
 :   **VNU Publishing Corp.**  
@@ -112,29 +108,13 @@ Employment History
 
     VNU Publishing Corp. Internet department (VIPS) was responsible for the technical infrastructure of all of its publications on the Internet. Responsibilities and achievements:
 
-    * Technical advice, infrastructure and hands-on support to the 'site owners' of a number of VNU online publications within the framework of the Netscape Publishing System and the Open Market IPS Content Management System
-    * Technical coordination of partnership deals with 3rd party content providers
-    * Perl programming custom applications and scripts
-    * Research and documentation
-
 1996-1998 
 :   **Media@vantage**  
     ***HTML programmer***
 
-    Media@vantage is a medium-sized bureau, specializing in interactive communications and new media (out of business). Responsibilities and achievements:
-
-    * Building and maintenance of websites for customers
-    * Research and training of new employees
-
 1995-1996 
 :   **Planet Internet**  
     ***Help desk employee***
-
-    Planet Internet is one of the biggest Internet Providers in the Netherlands. Responsibilities and achievements:
-
-    * Supporting Planet Internet customers on help desk
-    * Occasional supervision of help desk
-    * Diverse administrative duties
 
 
 Technical Experience

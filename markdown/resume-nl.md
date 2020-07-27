@@ -30,7 +30,7 @@ Werkervaring
   
     UNIX/Linux systeem consultant voor twee van Proxy's clienten; Rijkswaterstaat en de Nationale Politie:
 
-    * Voor Rijkswaterstaat was ik werkzaam in een afdeling verantwoordelijk voor metingen van waterstanden op zee en rivieren, met een sterke foxus op Nagios monitoring.
+    * Voor Rijkswaterstaat was ik werkzaam in een afdeling verantwoordelijk voor metingen van waterstanden op zee en rivieren, met een sterke focus op Nagios monitoring.
     * Voor de Nationale Politie was ik werkzaam in een beveiligde omgeving met >600 systemen, met een sterke focus op system configuration management automatisering met Puppet en GitLab.
 
 2011 – 2012 
