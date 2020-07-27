@@ -1,10 +1,10 @@
-Joost Soeterbroek
-=================
+Resume Joost Soeterbroek
+========================
 
 ----
 
-> I have an extensive background in IT as a UNIX/Linux sysadmin, web application 
-> development and DevOps roles. Strong in configuration management automation & orchestration. 
+> Extensive background in IT as a UNIX/Linux sysadmin, web application 
+> development and DevOps roles. Strong in configuration management automation & orchestration.
 > Red Hat Enterprise Linux Certified Engineer.
 
 ----

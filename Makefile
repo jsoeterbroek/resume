@@ -11,7 +11,6 @@ output/resume-nl.log \
 output/resume-nl.tex \
 output/resume-nl.tuc
 
-
 all: html pdf docx odt
 	for f in `ls $(CLEAN_FILES)`; do \
 		rm -f $$f > /dev/null; \
