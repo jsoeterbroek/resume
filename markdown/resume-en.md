@@ -16,97 +16,49 @@ Employment History
 :   **Hartekamp Groep**  
     ***Caregiver for people with mental handicaps***
 
-    Working in a care home for people with mental handicaps providing medical and non-medical home care service to elderly/disabled clients. Focused on personal care, companionship, homemaking, health and personal well-being of people with disabilities under our care.
-
 2016 - 2018 
 :   **Koninklijke Nederlandse Redding Maatschappij**  
     ***Database-, Linux System- and Application Administrator***
 
-    The KNRM is a search-and-rescue organization at sea. I was a part of the IT team that supported KNRM volunteers out at sea and office personnel. Within this team I was primarily responsible for multiple virtual hosts in Microsoft Azure Cloud; administration, configuration, monitoring and troubleshooting of CentOS Linux OS and LAMP applications.
-
-2012 - 2016 
+2014 - 2016
 :   **Proxy BV, UNIX Consultancy**  
-    ***UNIX/Linux systems consultant***
+    ***UNIX/Linux systems consultant @ National Police***
 
-    UNIX/Linux systems consultant for two of Proxy’s clients; Rijkswaterstaat (Dutch governmental organization for road- and water infrastructure) and the Dutch Police: 
-
-    * For Rijkswaterstaat I worked in a team responsible for measurements of (sea) water levels, with a strong focus on Nagios monitoring. 
-    * For the Dutch Police I worked in a security-sensitive environment of >600 hosts, with a strong focus on system configuration management automation with Puppet.
+2012 - 2014
+:   **Proxy BV, UNIX Consultancy**  
+    ***UNIX/Linux systems consultant @ Rijkswaterstaat***
 
 2011 – 2012 
 :   **ONVZ Health Care Insurance**  
     ***Applications Administrator***
 
-    * Java Middleware Applications  (Glassfish, Tomcat, ServiceMix, ActiveMQ, Liferay) Development and Production (OTAP) environment for SOA architecture
-    * Systems Configuration Management automation with Puppet
-    * Alfresco Document Management
-
 2008 – 2011 
 :   **ONVZ Health Care Insurance**  
     ***Red Hat Linux Systems Administrator***
-
-    * Systems Configuration Management automation with CfEngine
-    * Systems Management and Provisioning with Red Hat Satellite Server
-    * System Monitoring and troubleshooting
-    * Hardware maintenance in-house data center
-    * Change management in close coordination with other departments 
 
 2007 – 2008 
 :   **Schuberg Philis**  
     ***Mission Critical Engineer***
 
-    Responsibilities and achievements include building and managing dedicated mission critical application infrastructures, including datacenter hardware for its customers.
-
 2005 - 2007 
 :   **Shell**  
     ***Linux Project Engineer***
-
-    Linux Project Engineer at Shell Exploration & Production. Responsibilities and achievements:
-
-    * Linux custom engineering based on RHEL
-    * Writing installation and support manuals, processes and procedures
-    * Development of remote installation and management tools
-    * Implementation and configuration of servers and associated software
-    * Implementation of Red Hat Network Satellite Server
-    * Project technical co-ordination
 
 2004 - 2005 
 :   **Sun Microsystems**  
     ***Desktop Solutions Architect (Central- and Northern Europe Region)***
 
-    Responsibilities and achievements:
-
-    * Mapping customer business requirements to technical desktop solutions and provide technical leadership to the implementation of these solutions in CNE region
-    * Responsible for the overall design and technical oversight of complex business initiatives in customer consulting engagements
-
 2001-2004 
 :   **Sun Microsystems**  
     ***Technical Consultant Professional Services***
-
-    Sun Microsystems Professional Services helps customers with every phase of developing and deploying innovative services. Responsibilities and achievements:
-
-    * Primary focus on 'Edge' and Grid computing, UNIX systems management and provisioning
-    * Implementation services for Sun ONE products
-    * Server migration and consolidation
-    * Pre-sales activities
-    * Technical documentation
-    * Custom engineering, troubleshooting and disaster recovery for Cobalt server appliances
-
-    *Note: Joost Soeterbroek joined Sun Microsystems with the acquisition of Cobalt Networks by Sun Microsystems.*
 
 2000-2001 
 :   **Snow UNIX Consultancy**  
     ***UNIX/Linux Consultant***
 
-    Responsibilities and achievements:
-
-    * Maintenance and building of internal CRM web application on LAMP (Linux, Apache, MySQL and PHP) platform
-
 1998-2000 
 :   **VNU Publishing Corp.**  
     ***Webmaster***
-
-    VNU Publishing Corp. Internet department (VIPS) was responsible for the technical infrastructure of all of its publications on the Internet. Responsibilities and achievements:
 
 1996-1998 
 :   **Media@vantage**  

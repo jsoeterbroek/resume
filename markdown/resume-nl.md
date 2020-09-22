@@ -16,96 +16,49 @@ Werkervaring
 :   **Hartekamp Groep**  
     ***(Leerling-)Begeleider Wonen Gehandicaptenzorg***
 
-    Ik werk in de gehandicaptenzorg met mensen met geestelijke beperkingen en biedt medische en niet-medische zorg aan (oudere) mensen met een beperking in een werk-leer traject. Focus op persoonlijke zorg, gezelschap, huishoudelijke taken en persoonlijk welbevinden van de clienten onder onze zorg. Grote interesse in zorgtechnologie.
-
-2016 - 2018 
+2016 - 2018
 :   **Koninklijke Nederlandse Redding Maatschappij**  
     ***Database-, Linux System- and Applicatiebeheerder***
 
-    De KNRM is een *search-and-rescue* organisatie op zee. Ik was onderdeel van een klein IT team dat support biedde aan KNRM vrijwilligers op zee en kantoorpersoneel. Binnen dit team was ik primair verantwoordelijk voor Microsoft Azure Cloud platform; systeembeheer, configuratie, monitoring en trouble-shooting van een antal CentOS Linux systemen en custom LAMP applicaties en technisch beheer van de website knrm.nl.
-
-2012 - 2016 
+2014 - 2016
 :   **Proxy BV, UNIX Consultancy**  
-    ***UNIX/Linux systems consultant***
+    ***UNIX/Linux systems consultant @ Nationale Politie***
   
-    UNIX/Linux systeem consultant voor twee van Proxy's clienten; Rijkswaterstaat en de Nationale Politie:
-
-    * Voor Rijkswaterstaat was ik werkzaam in een afdeling verantwoordelijk voor metingen van waterstanden op zee en rivieren, met een sterke focus op Nagios monitoring.
-    * Voor de Nationale Politie was ik werkzaam in een beveiligde omgeving met >600 systemen, met een sterke focus op system configuration management automatisering met Puppet en GitLab.
-
+2012 - 2014
+:   **Proxy BV, UNIX Consultancy**  
+    ***UNIX/Linux systems consultant @ Rijkswaterstaat***
+  
 2011 – 2012 
 :   **ONVZ Zorgverzekeraar**  
     ***Applicatiebeheerder***
-
-    * Java Middleware Applicaties  (Glassfish, Tomcat, ServiceMix, ActiveMQ, Liferay), ontwikkel- and productie omgevingen
-    * Systems Configuration Management automatisering met Puppet
-    * Alfresco Document Management
 
 2008 – 2011 
 :   **ONVZ Zorgverzekeraar**  
     ***Red Hat Linux Systembeheerder***
 
-    * Systems Configuration Management automatisering met CfEngine
-    * Systems Management and Provisioning met Red Hat Satellite Server
-    * System Monitoring en trouble-shooting
-    * Hardware onderhoud in eigen datacenter
-    * Change management in overleg met andere afdelingen
-
 2007 – 2008 
 :   **Schuberg Philis**  
     ***Mission Critical Engineer***
-
-    Verantwoordelijkheden en activiteiten omvatten het bouwen en beheren van speciale missiekritieke applicatie-infrastructuren, inclusief datacenterhardware voor haar klanten.
 
 2005 - 2007 
 :   **Shell**  
     ***Linux Project Engineer***
 
-    Linux Project Engineer bij Shell Exploration & Production. Verantwoordelijkheden en activiteiten:
-
-    * Linux custom engineering gebaseerd op RHEL, inclusief inrichten van een rudimentaire build omgeving
-    * Ontwikkeling van remote installatie en management tools
-    * Implementatie and configuratie van servers en software
-    * Implementatie van Red Hat Network Satellite Server
-    * Project technische co-ordinatie
-
 2004 - 2005 
 :   **Sun Microsystems**  
     ***Desktop Solutions Architect (CNE regio)***
-
-    Verantwoordelijkheden en activiteiten:
-
-    * De zakelijke behoeften van klanten in kaart brengen voor technische desktopoplossingen en technisch leiderschap bieden bij de implementatie van deze oplossingen in de regio Centraal- en Noord Europa
-    * Verantwoordelijk voor het algehele ontwerp en technisch toezicht op complexe bedrijfsinitiatieven bij klantadviesopdrachten
 
 2001-2004 
 :   **Sun Microsystems**  
     ***Technical Consultant Professional Services***
 
-    Verantwoordelijkheden en activiteiten:
-
-    * Primaire focus op 'Edge' and Grid computing, UNIX systeembeheer en provisioning
-    * Implementatie services voor Sun ONE producten
-    * Server migratie en consolidatie
-    * Pre-sales activiteiten
-    * Technische documentatie
-    * Custom engineering, troubleshooting en disaster recovery voor Cobalt server appliances
-
-    *NB: Joost Soeterbroek is bij Sun Microsystems in dienst gekomen met de acquisitie van Cobalt Networks door Sun Microsystems.*
-
 2000-2001 
 :   **Snow UNIX Consultancy**  
     ***UNIX/Linux Consultant***
 
-    Verantwoordelijkheden en activiteiten:
-
-    * Beheer en verdere uitbouw van een interne CRM web applicatie op LAMP (Linux, Apache, MySQL en PHP) platform bij Planet Internet in Amersfoort
-
 1998-2000 
 :   **VNU**  
     ***Webmaster***
-
-    VNU Business Publication's internet afdeling (VIPS) was verantwoordelijk voor de technische infrastructuur van al haar publicaties op het Internet. 
 
 1996-1998 
 :   **Media@vantage**  

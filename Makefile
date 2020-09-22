@@ -16,11 +16,12 @@ all: html pdf docx odt
 		rm -f $$f > /dev/null; \
 	done
 
+
 pdf: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.pdf; \
-	    pandoc -N --template=styles/template.tex \
+		pandoc --standalone \
 			--variable papersize=A4 \
 			--variable fontsize=12pt \
 			--pdf-engine=xelatex \
