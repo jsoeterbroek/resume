@@ -12,6 +12,10 @@ Resume Joost Soeterbroek
 Employment History
 ------------------
 
+2020 - present
+:   **Dienst ICT Uitvoering (Dictu), Dutch Ministery of Economic Affairs and Climate**  
+    ***Linux Engineer (DevOps)***
+
 2018 - 2020
 :   **Hartekamp Groep**  
     ***Caregiver for people with mental handicaps***

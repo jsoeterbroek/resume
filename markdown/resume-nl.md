@@ -12,6 +12,10 @@ Resume Joost Soeterbroek
 Werkervaring
 ------------
 
+2020 - present
+:   **Dienst ICT Uitvoering (Dictu), Ministerie van Economische Zaken en Klimaat**  
+    ***Linux Engineer (DevOps)***
+
 2018 - 2020
 :   **Hartekamp Groep**  
     ***(Leerling-)Begeleider Wonen Gehandicaptenzorg***
